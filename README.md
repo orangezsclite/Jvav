@@ -1,5 +1,6 @@
 # Jvav
 
+# 此账户将不再维护此项目。可以参观大号 [orangeZSCB/Jvav](https://github.com/orangeZSCB/Jvav)
 
 [English README](https://github.com/orangezsclite/Jvav/blob/master/README.en.md)
 
